@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/echarts": "^4.6.0",
+    "echarts": "^4.7.0",
+    "systemjs": "^6.1.5"
+  }
+}
